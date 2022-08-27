@@ -1,11 +1,12 @@
 # GoogleAuth
+
+
 !["snave_pic"](https://github.com/gamer-snave/googleAuth/blob/main/download.png)
 !["snave_pic"](https://github.com/gamer-snave/googleAuth/blob/main/snave.png)
 
 ---
 ## Google User Authentication using Django
-* To add Google login on your app, you’ll need to set up OAuth application via
-* To add Google login on your app, you’ll need to set up OAuth application via[https://console.cloud.google.com/apis/dashboard]
+To add Google login on your app, you’ll need to set up OAuth application via [Google Console](https://console.cloud.google.com/apis/dashboard)
 
     # Add the following to installed Apps under project_name/settings.
 ``` 'django.contrib.sites', 
