@@ -1,6 +1,8 @@
 # GoogleAuth
+!["snave_pic"](https://github.com/gamer-snave/googleAuth/blob/main/download.png)
 !["snave_pic"](https://github.com/gamer-snave/googleAuth/blob/main/snave.png)
-!["snave_pic"](https://github.com/gamer-snave/googleAuth/blob/main/snave.png)
+
+---
 ## Google User Authentication using Django
 * To add Google login on your app, you’ll need to set up OAuth application via
 * To add Google login on your app, you’ll need to set up OAuth application via[https://console.cloud.google.com/apis/dashboard]
@@ -23,7 +25,7 @@
 ```SITE_ID = 1
 LOGIN_REDIRECT_URL = '/'
 ```
-* be Keen with the SITE_ID, 
+*b e Keen with the SITE_ID,* 
 
 ## Additional configuration settings
 ``` SOCIALACCOUNT_QUERY_EMAIL = True
@@ -56,4 +58,6 @@ urlpatterns = [
     path('accounts/', include('allauth.urls')),
 ]
 ```
+
+### Happy pulling felas!
 
