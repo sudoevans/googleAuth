@@ -1,8 +1,9 @@
 # GoogleAuth
 
 
-!["snave_pic"](https://github.com/gamer-snave/googleAuth/blob/main/download.png)
-!["snave_pic"](https://github.com/gamer-snave/googleAuth/blob/main/snave.png)
+!["snave_pic"](https://github.com/gamer-snave/googleAuth/blob/main/static/img/download.png)
+!["snave_pic"](https://github.com/gamer-snave/googleAuth/blob/main/static/img/snave.png)
+!['another"](https://github.com/gamer-snave/googleAuth/blob/main/static/img/google.png)
 
 ---
 ## Google User Authentication using Django
